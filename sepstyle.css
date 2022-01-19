@@ -5,8 +5,20 @@ font-family:Arial, sweet-purple, sans-serif;
 
 
 }
+
+
 @sweet-purple {
   font-family: sweet-purple;
   src: url(fonts/sweet-purple.ttf);
+}
+
+
+
+@toms-roman {
+
+font-family: toms-roman;
+  src: url(fonts/TomsNewRoman-Eawr.ttf);
+
+
 }
 
