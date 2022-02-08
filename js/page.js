@@ -1,6 +1,6 @@
 function testlol() {
 
- document.getElementById('buttontest').innerHTML = 'You found a secret?';
+ document.getElementById('buttontest').innerHTML = "You found a secret?";
 
 
   
@@ -9,12 +9,12 @@ function testlol() {
 
 function oldlinkclick() {
 
-document.getElementById('old-site').innerHTML = 'You clicked the link.';
+document.getElementById('old-site').innerHTML = "You clicked the link.";
 
 }
 
 function amongsus() {
 
-document.getElementbyId('sus').innerHTML = 'amogus';
+document.getElementbyId('sus').innerHTML = "amogus";
 
 }
