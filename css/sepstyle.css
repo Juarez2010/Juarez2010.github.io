@@ -1,0 +1,23 @@
+#welcomeintro {
+
+font-family: Arial, 'sweet-purple',sans-serif;
+font-size: 26.4px;
+
+
+}
+
+
+@font-face {
+  font-family: 'sweet-purple';
+  src: url('../fonts/sweet-purple.ttf');
+}
+
+
+
+@font-face {
+
+font-family: 'toms-roman';
+  src: url('../fonts/TomsNewRoman-Eawr.ttf');
+
+
+}
