@@ -1,7 +1,9 @@
 function testlol() {
 
-document.getElementById('buttontest').innerHTML = 'You found a secret?';
+// document.getElementById('buttontest').innerHTML = 'You found a secret?';
 
+  $('#buttontest').text('You found a secret?');
+  
 }
 
 
