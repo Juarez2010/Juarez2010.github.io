@@ -9,7 +9,7 @@ function testlol() {
 
 function oldlinkclick() {
 
-document.getElementById("old-site").innerHTML = "You clicked the link.";
+document.getElementById("testlink").innerHTML = "You clicked the link.";
 
 }
 
