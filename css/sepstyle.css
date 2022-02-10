@@ -21,3 +21,10 @@ font-family: 'toms-roman';
 
 
 }
+
+nav ul li {
+	display: inline;
+	border-right: 2px solid #111111;
+	padding-right: 8px;
+	padding-left: 8px;
+}
