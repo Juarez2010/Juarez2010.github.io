@@ -11,3 +11,8 @@ Where i got the new css from: https://www.w3schools.com/w3css/default.asp
 
 So far, the new page is going good. 
 
+
+Alt urls (if anyone needs them): 
+
+https://juarez2010.com (not usable yet)
+
