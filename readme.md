@@ -18,3 +18,5 @@ https://juarez2010.com (not usable yet)
 
 https://website-v2-alt.juarez2010.repl.co (replit alt)
 
+https://website-v2-1.juarez2010.repl.co  (another replit alt)
+
