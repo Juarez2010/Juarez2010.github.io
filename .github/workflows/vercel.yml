@@ -1,2 +1,0 @@
-- name: Deploy on Vercel
-  uses: UnlyEd/github-action-deploy-on-vercel@1.0.0
