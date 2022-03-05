@@ -1,4 +1,5 @@
-document.write('<!DOCTYPE html>
+function lol {
+	document.write('<!DOCTYPE html>
 <html>
 <title>Website v2?</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -58,3 +59,4 @@ document.write('<!DOCTYPE html>
 </body>
 </html>
 ');
+}
