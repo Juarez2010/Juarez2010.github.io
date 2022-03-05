@@ -57,3 +57,4 @@ document.write('<!DOCTYPE html>
   <a id="old-site" onclick="oldlinkclick()" href="https://juarez2010.github.io/website-v1" target="_blank">Visit the old site!</a><!-- visit it if u want lol-->
 </body>
 </html>
+');
