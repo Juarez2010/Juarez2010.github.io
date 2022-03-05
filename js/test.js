@@ -1,6 +1,6 @@
 function lol {
-	document.write('<!DOCTYPE html>
-<html>
+	document.write('
+		       <html>
 <title>Website v2?</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="refresh" content="20">
@@ -58,5 +58,5 @@ function lol {
   <a id="old-site" onclick="oldlinkclick()" href="https://juarez2010.github.io/website-v1" target="_blank">Visit the old site!</a><!-- visit it if u want lol-->
 </body>
 </html>
-');
+')
 }
