@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+
 #welcomeintro {
 
 font-family: Arial, 'sweet-purple',sans-serif;
@@ -12,7 +14,10 @@ font-size: 26.4px;
   src: url('../fonts/sweet-purple.ttf');
 }
 
-
+@font-face {
+  font-family: 'pallete-mosaic-backup';
+  src: url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+}
 
 @font-face {
 
@@ -21,6 +26,9 @@ font-family: 'toms-roman';
 
 
 }
+
+
+
 
 nav ul li {
 	display: inline;
