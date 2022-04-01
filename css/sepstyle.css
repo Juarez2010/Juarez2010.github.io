@@ -25,12 +25,6 @@ font-size: 26.4px;
 
 @font-face {
 
-font-family: 'conecrt-one2'
-src: url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
-}
-
-@font-face {
-
 font-family: 'toms-roman';
   src: url('../fonts/TomsNewRoman-Eawr.ttf');
 
