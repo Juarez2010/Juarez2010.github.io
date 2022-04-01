@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+
+
 #welcomeintro {
 
 font-family: Arial, 'sweet-purple',sans-serif;
@@ -17,6 +21,12 @@ font-size: 26.4px;
 @font-face {
   font-family: 'pallete-mosaic-backup';
   src: url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+}
+
+@font-face {
+
+font-family: 'conecrt-one2'
+src: url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
 }
 
 @font-face {
